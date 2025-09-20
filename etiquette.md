@@ -4,13 +4,13 @@
 
 <p>.</p>
 
-    <h3>What do you go by collectively?</h3>
+<h3>What do you go by collectively?</h3>
 
 <p>Machina, as a surname, and we use plural they/them, like you would say for any other group of people.</p>
 
 <p>.</p>
 
-    <h3>How should people refer to you?</h3>
+<h3>How should people refer to you?</h3>
 
 <p>We prefer to be called by our first names on a friendly basis, and to be treated as individual people whenever possible. If you’re talking to Jude, remember that you’re talking to Jude, not Max or Gavin. If Gavin wrote an essay, cite Gavin Reed-Machina as the author, rather than Machina as a whole. If you don't remember who said something, you can say "one of the Machinas" did that!</p>
 
@@ -18,7 +18,7 @@
 
 <p>.</p>
 
-    <h3>What terms do you prefer for referring to yourselves as individuals, or as a group? Is there any other terminology for yourselves or aspects of your experience that you use and want people to know, or that you dislike and want people to avoid when talking about you?</h3>
+<h3>What terms do you prefer for referring to yourselves as individuals, or as a group? Is there any other terminology for yourselves or aspects of your experience that you use and want people to know, or that you dislike and want people to avoid when talking about you?</h3>
 
 <p>We call each other headmates most often, sometimes sysmates, and partners or boyfriends when we’re discussing our romantic relationships in-system. As a group, we like being called plural, multiple, people, and a system. (Max, in particular, is the core of a median subsystem with his raptorself Biscuit, and he’s a person while Biscuit is not – it’s more like a pet animal.)</p>
 
@@ -28,7 +28,7 @@
 
 <p>.</p>
 
-    <h3>Who in your system are people most likely to interact with?</h3>
+<h3>Who in your system are people most likely to interact with?</h3>
 
 <p>There's only three of us here regularly, so we'll just give a little list! You'll find far more detail on our <a href="https://chirp-bark-hey.neocities.org/about/">about</a> page, if you're interested.</p>
 
@@ -43,13 +43,13 @@ A completely human guy, no added flavors, who's written a few essays on how huma
 
 <p>.</p>
 
-    <h3>Will people be interacting with any child members? How should they treat them? Is there anything they should know when interacting with them?</h3>
+<h3>Will people be interacting with any child members? How should they treat them? Is there anything they should know when interacting with them?</h3>
 
 <p>No, everyone in our system is an adult living in an adult body.</p>
 
 <p>.</p>
 
-    <h3>Are there any system members who are nonverbal or otherwise have difficulty communicating? What should others expect when speaking with them?</h3>
+<h3>Are there any system members who are nonverbal or otherwise have difficulty communicating? What should others expect when speaking with them?</h3>
 
 <p>Jude is usually a chatterbox, but sometimes they lose speech when they’re extremely distressed, which includes being unable to talk out loud, type coherently over text, or communicate in-system for comfort from the rest of us.</p>
 
@@ -61,49 +61,49 @@ If you’re someone they trust to help when they can’t speak, talking to them 
 
 <p>.</p>
 
-    <h3>What should people do if they don't know who's at front?</h3>
+<h3>What should people do if they don't know who's at front?</h3>
 
 <p>Just ask! Sometimes we don’t know who’s fronting either, or we’re all fronting together, like when we’re really focused on an external task and it’s taking up all the thinking bandwidth, and we’ll say that or leave it to someone to talk if they want to.</p>
 
 <p>.</p>
 
-    <h3>Is it okay for people to ask if they can talk to someone who isn't at front at the moment?</h3>
+<h3>Is it okay for people to ask if they can talk to someone who isn't at front at the moment?</h3>
 
 <p>It’s okay to ask. Sometimes they won’t be available, but they’ll usually be happy to talk!</p>
 
 <p>.</p>
 
-    <h3>If someone talks to one of you, will other system members be aware of the conversation? Will they be actively watching, or just able to remember it later?</h3>
+<h3>If someone talks to one of you, will other system members be aware of the conversation? Will they be actively watching, or just able to remember it later?</h3>
 
 <p>Yes, they’ll be aware. All of us have the same memory backlog – even if they’re not there for the conversation, they’ll be able to remember it later. We don’t have control over this. You can’t have a private conversation with one of us and expect it to be hidden from the others.</p>
 
 <p>.</p>
 
-    <h3>Adding onto the above – if multiple system members will be aware of a conversation, will they want to chime in? If someone wants to speak to a system member one-on-one, what expectations can they have and how should they communicate this?</h3>
+<h3>Adding onto the above – if multiple system members will be aware of a conversation, will they want to chime in? If someone wants to speak to a system member one-on-one, what expectations can they have and how should they communicate this?</h3>
 
 <p>It depends! Sometimes the conversation goes in interesting ways and several of us have different opinions on a topic, sometimes it’s only relevant to the person who was talking in the first place. If you want to speak one-on-one with only one of us, say so up front – and remember you can’t hide that conversation from the rest of us, but we won’t interrupt unless there’s a reason to switch.</p>
 
 <p>.</p>
 
-    <h3>How out are you? What should people do when talking to people who don't know you're plural?</h3>
+<h3>How out are you? What should people do when talking to people who don't know you're plural?</h3>
 
 <p>We’re not openly plural anywhere offline, or even in several spaces online, and would prefer to keep it that way for the foreseeable future. If you see we're in a space with you and using a name you're unfamiliar with, call us that and don't bring up our plurality. If you happen to know us offline, you can talk indirectly about knowing someone who’s plural without giving a name. Don’t share people’s private information without their permission.</p>
 
 <p>.</p>
 
-    <h3>Do you have any internal communication difficulties, memory issues, switch triggers, etc that others should be mindful of?</h3>
+<h3>Do you have any internal communication difficulties, memory issues, switch triggers, etc that others should be mindful of?</h3>
 
 <p>Sometimes one of us gets stuck in front for a while, usually when dealing with a massive amount of stress, and that causes difficulty talking with people in the back. It’s a temporary thing, and only really something that concerns other people if we’re bringing it up to get help.</p>
 
 <p>.</p>
 
-    <h3>Your stance on being asked questions?</h3>
+<h3>Your stance on being asked questions?</h3>
 
 <p>Go ahead! We can’t promise definitive answers if you’re asking about the wider plural community, it’s very broad, but we’ll do our best. If you’re asking about personal opinions or experiences, we’re good with just about any questions so long as they’re respectful and asked in good faith.</p>
 
 <p>.</p>
 
-    <h3>Is there anything else others should know?</h3>
+<h3>Is there anything else others should know?</h3>
 
 <p>We aren’t an authority on anyone else's experiences, only our own – other systems will have completely different answers to this questionnaire! Don't apply our answers to other people.</p>
 
