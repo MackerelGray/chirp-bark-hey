@@ -1,3 +1,3 @@
-# Example Second Page
+# Chirp! Bark! Hey!
 
-This is an example second page that will appear in the Docsify Sidebar.
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
