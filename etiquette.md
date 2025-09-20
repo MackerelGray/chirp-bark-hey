@@ -1,10 +1,13 @@
-<h2>Plural Etiquette Questionnaire</h2>
-    <p><i>Frequently asked questions about how to talk to us!</i></p>
-    <p><a href="http://bit.ly/pluraletiquette">Based on a list by Hungry Ghosts.</a></p>
 
-<h3>What do you go by collectively?</h3>
+## Plural Etiquette Questionnaire
 
-<p>Machina, as a surname, and we use plural they/them, like you would say for any other group of people.</p>
+*Frequently asked questions about how to talk to us!*
+
+[Based on a list by Hungry Ghosts.](http://bit.ly/pluraletiquette)
+
+### What do you go by collectively?
+
+Machina, as a surname, and we use plural they/them, like you would say for any other group of people.
 
 <h3>How should people refer to you?</h3>
 
