@@ -49,11 +49,11 @@ Jude is usually a chatterbox, but sometimes they lose speech when they’re extr
 If you’re someone they trust to help when they can’t speak, talking to them calmly is good for grounding. Hugging, petting, wrapping a blanket around them, and other forms of comforting touch are helpful if you can give them, in person or over text. Ask them if they’ve eaten or had water in the last few hours, and encourage them to do so if they say no in any way. Breathing exercises can help if they’ve calmed down enough from crisis that they can do so. If you’re talking and they start talking too, even if it’s in short sentence fragments, that’s a good sign. Tell them it’s not their fault if they apologize. Thank you for being there for them, it means a lot.
 </details>
 
-## <h3>What should people do if they don't know who's at front?</h3>
+## What should people do if they don't know who's at front?
 
 Just ask! Sometimes we don’t know who’s fronting either, or we’re all fronting together, like when we’re really focused on an external task and it’s taking up all the thinking bandwidth, and we’ll say that or leave it to someone to talk if they want to.
 
-## <h3>Is it okay for people to ask if they can talk to someone who isn't at front at the moment?</h3>
+## Is it okay for people to ask if they can talk to someone who isn't at front at the moment?
 
 It’s okay to ask. Sometimes they won’t be available, but they’ll usually be happy to talk!
 
