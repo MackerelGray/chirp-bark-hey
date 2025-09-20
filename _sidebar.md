@@ -1,3 +1,4 @@
 - [Home](home)
 - [Etiquette](etiquette)
 - [About](about)
+- [Writings](writings)
