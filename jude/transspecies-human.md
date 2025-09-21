@@ -8,7 +8,7 @@
 
 ## Being Transspecies
 
-<p>I wrote one of my first personal essays, “<a href="https://chirp-bark-hey.neocities.org/writings/jude/android-abnormalities">Android Abnormalities</a>,” back in March 2024. In that essay, I talked about how I feel alienated by common narratives around android sapience and emotionality. I kept seeing stories and stereotypes about how robots are always more logical and rational than human beings, and that sure didn’t connect with my experience.</p>
+I wrote one of my first personal essays, “[Android Abnormalities](https://github.com/MackerelGray/chirp-bark-hey/blob/main/jude/android-abnormalities.md),” back in March 2024. In that essay, I talked about how I feel alienated by common narratives around android sapience and emotionality. I kept seeing stories and stereotypes about how robots are always more logical and rational than human beings, and that sure didn’t connect with my experience.
 
 <p>Personally, despite being an android, I’m an emotionally-driven fucking mess. I don’t translate my feelings from “technical” terms, like “I sense a buildup of extraneous heat and tension in the hardware of my cervical and thoracic regions, what does that mean?” I know exactly what that means I’m feeling in this context, it means I'm fucking <i>annoyed,</i> next question. I don’t <i>have</i> a disconnect between my emotions and how I process them; it’s all a visceral blurring of sensation and reaction.</p>
 
@@ -93,7 +93,7 @@ orthohumanity</i></a>, “ortho” being derived from orthodox: conventional, us
 
 <p>An analogy: I’m a nonbinary person. Personally, on my own body, I don’t like having facial hair, and I don’t like having breasts. This doesn’t give me the right to start calling all men “neckbeards” to emphasize how <i>different</i> I am from them. It doesn’t give me the right to start calling all women “milkjugs” to emphasize how <i>different</i> I am from them. Do you see how demeaning and objectifying those phrases sound? I don’t get to look at what I despise on my own body and reduce other people down to the traits I dislike.</p>
 
-<p>I know that most machines think that being human is a nightmare. This is fine. You don’t need to understand <i>why</i> someone is human - though if you want to know, my boyfriend wrote <a href="https://chirp-bark-hey.neocities.org/writings/gavin/being-human">an incredibly detailed essay</a> on why he identifies as 100% human. But you don’t <i>need</i> to understand something to <i>respect</i> the people who experience it instead of insulting their bodies like a schoolyard bully.</p>
+I know that most machines think that being human is a nightmare. This is fine. You don’t need to understand *why* someone is human - though if you want to know, my boyfriend wrote [an incredibly detailed essay](https://github.com/MackerelGray/chirp-bark-hey/blob/main/gavin/being-human.md) on why he identifies as 100% human. But you don’t *need* to understand something to *respect* the people who experience it instead of insulting their bodies like a schoolyard bully.
 
 <p>The idea that the machine is inherently better than the lowly human is just reversing the anthropocentric hierarchy where humanity is better than all other life on earth, except now <i>machines</i> are better than humanity. It’s still an unfair hierarchy, just one that’s now centered on technology as the ultimate lifeform.</p>
 
