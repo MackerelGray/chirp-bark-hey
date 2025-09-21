@@ -8,7 +8,7 @@ Hey, my name's Gavin, he/him, and I'm writing out my fucking identity crisis on 
 
 **Content Warning:** I get existentially fucked up about my personhood and purpose in life, mention having a sex life, and use a few reclaimed slurs as identity labels for myself. This ends on a pretty hopeful note, all things considered.
 
-
+.
 
 So. This past week, [we realized something](max-daemons-to-systems), that Jude and I - *especially* me - have been basically fitting in the same roles Max’s daemons used to. Because brains are weird, and they love patterns, and we've been unconsciously keeping this pattern going for a solid year or so.
 
