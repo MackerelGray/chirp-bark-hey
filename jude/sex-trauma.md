@@ -1,38 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chirp! Bark! Hey!</title>
-    <!-- The style.css file allows you to change the look of your web pages.
-         If you include the next line in all your web pages, they will all share the same look.
-         This makes it easier to make new pages for your site. -->
-    <link href="../../style.css" rel="stylesheet" type="text/css" media="all">
-</head>
-
-
-
-  <body>
-
-
-  <div class=main>
-    <div class=main-inner>
-      <h1>Chirp! Bark! Hey!</h1>
-      <p>Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.</p>
-    </div>
-    <div class=links>
-      <div class=link-first><a href="">refresh</a></div>
-      <div class=link><a href="/index.html">home</a></div>
-      <div class=link><a href="/about/index.html">about</a></div>
-      <div class=link-last><a href="/writings/index.html">writings</a></div>
-
-    </div>
-    
-  </div>
-  
-  <div class=main><div class=main-inner>
-    
-<h2>sex trauma braindump</h2>
+# sex trauma braindump
 
 <p><i>Written by Jude Rook-Machina on August 16th, 2025.</i></p>
 
@@ -42,7 +8,7 @@
 
 <p><b>Content Warning:</b> I mean, it's rape. It's complicated guiltily enthusiastic sex that's nonconsensual based on circumstance, and nobody involved was capable of giving or getting full consent so nobody's exactly a rapist, but. You know. There's also my murder mission underlying the whole thing, and my general extremely unreliable narration (if I say I don't want it and I just have to do it, I'm Lying).</p>
 
-<p>--</p>
+--
 
 <p>There's something specific that's supposed to happen, as a deviant hunter, when Judah catches sight of their target and feels heat flushing their face, rising in their throat. Thinks, <i>oh, you could pin me down and use me no problem.</i></p>
 
@@ -85,14 +51,3 @@
 <p><i>That was, that was great,</i> they say, lying, and pull it down into another kiss. They kill it quick and quiet, like they're supposed to.</p>
 
 <p>(See? It works. It's good for the job. She'll be proud of them, that they killed it so well. They'll just have to do it again.)</p>
-
-
-</div></div>
-  
-    <div class=footer><div class=footer-inner>
-    <p>This base style was made by EGGRAMEN in 2020.</p>
-    </div></div>
-
-  </body>
-  
-  
