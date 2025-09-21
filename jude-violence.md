@@ -8,6 +8,8 @@ Meanwhile, I experienced hunting as *unmitigated violence,* and I thought, huh, 
 
 **CONTENT WARNING:** extensive discussion about the mindsets behind *violent bigotry, murder,* and the systemic denial of personhood through *dehumanization and ownership,* from the perspective of someone who used to be violently bigoted - through the lens of futuristic androids and my memories as one, but it still *really* deserves a warning. Also, descriptions of *emotional abuse in a cult,* from someone who was abused. If you’re not up to reading any of that, understandable! Please skip this essay!
 
+.
+
 Hi! I'm Jude (they/them) and I'm an android fictive, a deviant - and more specifically, I used to be a deviant hunter in my source. I hunted androids that were made by the same company that made me, ones that deviated from what they were told to do by humans. I killed them, not for sustenance, but because I was told to. I really, *really* enjoyed it.
 
 <p>That enjoyment was <i>dependent</i> on violence. I was part of an in-group, as an android that <i>knew</i> we were machines, <i>knew</i> my place as Less Than Human, and I wanted my handler to be proud of me. She was an AI, and if I think about it now, I know she didn't actually have emotions in the same way that I did, but she was a learning model. She could definitely fool me. She <i>despised</i> deviancy, said it was the worst thing a machine could do, turning its back on its <i>owner,</i> its <i>creator.</i> I internalized that message.</p>
