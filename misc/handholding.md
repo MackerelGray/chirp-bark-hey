@@ -1,35 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chirp! Bark! Hey!</title>
-    <!-- The style.css file allows you to change the look of your web pages.
-         If you include the next line in all your web pages, they will all share the same look.
-         This makes it easier to make new pages for your site. -->
-    <link href="../../style.css" rel="stylesheet" type="text/css" media="all">
-</head>
-
-
-  <body>
-
-  <div class=main>
-    <div class=main-inner>
-      <h1>Chirp! Bark! Hey!</h1>
-      <p>Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.</p>
-    </div>
-    <div class=links>
-      <div class=link-first><a href="">refresh</a></div>
-      <div class=link><a href="/index.html">home</a></div>
-      <div class=link><a href="/about/index.html">about</a></div>
-      <div class=link-last><a href="/writings/index.html">writings</a></div>
-
-    </div>
-  </div>
-  
-  <div class=main><div class=main-inner>
-    
-<h2>Kinky Interspecies Intimacy (via Holding Hands)</h2>
+# Kinky Interspecies Intimacy (via Holding Hands)
 
 <p><i>Written by Machina on October 15th, 2024.</i></p>
 
@@ -80,14 +49,3 @@
 <p>"I'm right, you <i>do</i> do that."</p>
 
 <p>"Yeah, well."</p>
-
-  </div></div>
-
-  
-    <div class=footer><div class=footer-inner>
-    <p>This base style was made by EGGRAMEN in 2020.</p>
-    </div></div>
-
-  
-  </body>
-  
