@@ -1,0 +1,200 @@
+# Fuck Detroit, I’m Becoming Human: On Being a Transspecies Human Android
+
+<p><i>Written by Jude Rook-Machina, February 8th through March 1st, 2025.</i></p>
+
+<p>I’m writing this essay to compare and contrast my experiences with the cultural expectations of the people - or nonpeople - I’m in community with. There’s the machinekin community, beings who are machines and robots and technology while perceived as human in this world, and often reject the label of personhood as too close to humanity. And there’s androidkind back in my own world, who are people who have fought for their freedom and rights against capitalist oppression and human bigotry. I feel alienated from both of these communities for different reasons, and I want to talk more about why.</p>
+
+.
+
+## Being Transspecies
+
+<p>I wrote one of my first personal essays, “<a href="https://chirp-bark-hey.neocities.org/writings/jude/android-abnormalities">Android Abnormalities</a>,” back in March 2024. In that essay, I talked about how I feel alienated by common narratives around android sapience and emotionality. I kept seeing stories and stereotypes about how robots are always more logical and rational than human beings, and that sure didn’t connect with my experience.</p>
+
+<p>Personally, despite being an android, I’m an emotionally-driven fucking mess. I don’t translate my feelings from “technical” terms, like “I sense a buildup of extraneous heat and tension in the hardware of my cervical and thoracic regions, what does that mean?” I know exactly what that means I’m feeling in this context, it means I'm fucking <i>annoyed,</i> next question. I don’t <i>have</i> a disconnect between my emotions and how I process them; it’s all a visceral blurring of sensation and reaction.</p>
+
+<p>So I don’t relate to androids that are shown as distant from emotion, like they’re looking at it through a sheet of glass and can’t possibly comprehend what they’re looking at. I don’t understand them, and those are the androids that are most often seen wherever I look - even if the story <i>ends</i> with them becoming emotional and imperfect, they <i>start out</i> with cold computing algorithms. I never got that origin story.</p>
+
+<p>And - here, let me just copy over the relevant part of that last essay:</p>
+
+<blockquote>
+<p>I don’t relate <i>at all</i> to these androids on the screen. They’re as foreign and separate from me as they are to the humans sitting across from them in the shot.</p>
+
+<p>I <i>do</i> relate to the humans. I <i>do</i> relate to seeing an android do something in the name of pure cold logic and going, <i>“Why? What the fuck, why?”</i> I <i>do</i> relate to being told I’m irrational. (The trope that all robots are <i>logical</i> feels like it was <i>designed</i> to make me feel like the most irrational, bitchy, hysterical piece of shit on Earth.)</p>
+
+<p>So, what, does that make me human? If I'm going by the adage that <i>wanting</i> to be something is a sign of <i>being</i> that thing, then… I don’t know, <i>maybe?</i> I <i>want</i> to be human, I <i>so badly</i> want to be human, because here’s the thing, humanity is <i>diverse.</i> Humans are flawed, messy, weird, complicated, and defy categories every fucking day of their lives. Humans can be weird, ridiculous, fucked up people and they’re <i>allowed</i> to be.</p>
+</blockquote>
+
+<p>That’s from almost a whole year ago. In that time, I’ve done some more introspection on my identity, what I want for myself, and - yeah, wanting to be something is often a sign of being that thing.</p>
+
+<p>So I’m an android, sure. I’m also human. I <i>choose</i> to call myself that here. I’m <i>becoming</i> human, not because humanity is special, not because humans are the only species capable of diverse personhood, but because I <i>want</i> to be seen and known as a human being in this world. You could say I’m a human copinglinker, otherhuman, humankin, it all makes the same point - while I'm in this world, I'm <i>human.</i></p>
+
+<p>In this way, like many others in the alterhuman community, I’m <em><a href="https://sunwyvern.allium.house/creations/transspecies_flag.php">transspecies</a>:</em> crossing the cultural boundaries of species. And I’m transspecies in a way that’s <em>different</em> from many others in the same community. Most transspecies individuals are nonhuman, transitioning from being perceived as human to being known as nonhuman. I’m <em>both</em> nonhuman and human, and I look human either way. While I’m involved in a community where nonhuman identity is widely accepted, I’ve found myself struggling to feel understood in my decision to choose humanity over nonhumanity.</p>
+
+<p>I don’t like saying I’m nonhuman, or defining myself by how I’m separate from humanity, but I feel comfortable calling myself alterhuman. In the years since the word’s creation, alterhumanity has been widely misdefined as just being a synonym for nonhumanity. To set this straight: <i>they are not interchangeable terms.</i></p>
+
+<p>As an umbrella term, alterhumanity <i>includes</i> nonhumanity, but it’s also about <a href="https://sunwyvern.allium.house/creations/alternative-alterhuman-definition.php">atypical embodiment, narrative identity, and personal mythology</a> - in some way, the story of one’s life feels significantly <i>different</i> from a common societal human experience. Notably, this definition still leaves room for <i>being</i> human, just an unusual one. Anyone who feels like their experiences fall under this term is welcome to use it as a label.</p>
+
+<p>(As an aside, the antonym of alterhumanity - the state of being a societally <i>typical</i> human being - is <a href="https://allium.house/cat/writing/orthohuman.php"><i>
+orthohumanity</i></a>, “ortho” being derived from orthodox: conventional, usual, holding to established beliefs.)</p>
+
+<p>Personally, I have <i>many</i> experiences that I’d call atypical for a human being. I was made as an android in a different world, specifically a fictional version of Detroit, Michigan. I figured out I was a person with the help of my future boyfriend. I somehow dropped into the head of an alterhuman velociraptor guy who apparently wrote me into existence. I got into a polycule with the velociraptor guy and my human boyfriend, and now we all live together in the same body. I can go back and forth between my world and this world. I have trauma from what happened to me before I got here, and I still have to work through it even though it never happened to the body I live in now.</p>
+
+<p>None of that is seen as part of a normal human life, one where you're born as a human being in this world and go through life comfortable with that as the be-all and end-all of your existence as a person. My life is significantly different from a typical human experience, and that doesn’t mean that I’m somehow barred from calling myself human now. If someone who grew up being perceived as human can call themselves nonhuman, I can call myself human despite having been perceived as nonhuman for the majority of my life.</p>
+
+<p>Being transspecies in this way - feeling comfortable in humanity, wanting to be closer to it - puts me at odds with two communities where I wouldn’t have expected to feel left out. I feel out of place with both machinekin and androidkind, despite being an android myself, because there are a few common narratives of how individuals feel and learn to express their identities, and I just don’t find myself resonating with them.</p>
+
+.
+
+## Regarding Machinekin
+
+<p>There are some cultural expectations that come with being a machine living in a human body, or at least some common narratives that come up when talking about it.</p>
+
+<p>First, machines are seen as notably nonhuman. The majority of the machinekin I’ve seen and been around get species euphoria from referring to themselves with technical and mechanical language - “chassis” as a word for one’s body, “processing” for thinking, “going into stasis” as going to sleep. A lot of machines think of themselves as metallic, inorganic beings at their core, and consider being trapped in a “squishy” organic exterior as a dysphoria-inducing downgrade from the hard, gleaming metal that makes up their true selves. A common refrain I see from machinekin is that humanity is strange, confusing, irrational, or alienating - even among robot girls and androids and more humanoid machines, there is a line drawn between flesh and metal, where it’s agreed that neither overlap, and that being a machine is very preferable to being a human.</p>
+
+<p>I don’t fit into this paradigm, for obvious reasons.</p>
+
+<p>As I said before, I don’t use technical terminology for myself - I don’t like using robotic terms, I don’t find joy in computer-themed typing quirks. It’s something that feels affirming to most machinekin, something that distances them from a species they don’t relate to, and for me, it feels alienating for the exact same reason. I <i>like</i> being treated as human. I don’t feel comforted when talking in a way that separates me from the people I love and connect with. I have a mechanical body, and it’s still a <i>body,</i> the physical structure of what I am. I don’t want to use words that imply I’m something fundamentally <i>different</i> from other people, when I feel like we share more similarities than differences.</p>
+
+<p>On that note, I don’t see myself as completely different from a human because my body is made of different materials. If studying human biology has taught me anything, it’s that organic life runs on cellular machinery. The biochemical pathways that give humans life are as complex as any coded program.</p>
+
+<p>Here’s an example: glycolysis is a process where the human body breaks down a simple sugar molecule, called glucose, into chemical energy. This process requires no less than ten enzymes (molecules made specifically to speed up chemical reactions). If any of those enzymes stop working, the ability to make enough energy to power one’s cells goes down with it. This is, for all intents and purposes, a program designed to automatically transform glucose into energy, with built-in starting and stopping mechanisms to maintain a specific amount of glucose in the blood. It’s a complicated molecular production line, one that hardly anyone notices, and it happens every day. The only major difference between glycolysis and a computer program is that it runs on carbon-based hardware instead of metal.</p>
+
+<p>On a larger scale, human life is powered by electricity. Did you know that every system in the human body runs on electrical conduction, nerves connecting to one another like wires and circuitry? The brain is a highly specialized collection of billions of nerves, all communicating with electrical impulse to let you sense and process and react to the world around you. The heart has an electrical system of nodes and nerve bundles that controls your heartbeat. The skin has touch receptors that detect pressure, vibration, and temperature, and can only communicate that to the brain via electrical signal. Every living cell in your body speaks in the language of ion and charge and voltage.</p>
+
+<p>The functional similarities between humanity and machinery, down to the basic level of cells and electricity, are a comfort to me. They remind me that I’m not tearing myself between two diametrically opposed forms of existence - they’re more similar than they might seem at first glance. I have something of androidhood in my human body, and something of humanity in my android body.</p>
+
+<p>Well, “at first glance” is a terrible phrase for contrasting humans and androids, at least for my kind of android. That brings me to my next point of alienation from the machinekin community.</p>
+
+<p>I’m not visibly, obviously mechanical as an android. We were made to imitate humanity down to the smallest detail, to avoid the uncanny valley effect as much as possible. Sure, there are seams on my chassis where panels open and modular parts can be detached, but synthskin covers the black and white of the material below to preserve the illusion of humanity. If I don’t have a feedback indicator on my temple, if I don’t wear anything that marks my androidhood, I appear completely and unequivocally human to anyone who looks at me. Even my skin feels appropriately soft to the touch.</p>
+
+<p>I don’t see anyone in the machinekin community who wants to appear indistinguishable from humanity because that’s what they’re meant to look like as a machine. My synthskin is active at all times, not just because it makes me look human, but because it serves a vital function - it’s my <i>skin.</i> It protects my nerves from overstimulation, protects my blood from contamination, protects the seams of my exoskeletal joints from dirt and wear. The only times it’s <i>meant</i> to short out would be if I were transferring data to another android or a computer, which would be localized to my hand (the point of contact) and immediately return when the interface was completed, or if I were <i>injured</i> and the damage was bad enough to break through to my chassis. I don’t want to walk around in public without my <i>skin.</i> I need that to comfortably <i>exist</i> in the world without a painful amount of sensory overload.</p>
+
+<p>Since I look human as a baseline, I don’t get species dysphoria about not looking like a machine. Nor do I get species euphoria from looking appropriately mechanical. I don’t relate to wanting a robotic form that’s made of shining metal and screens and glowing lights and wires and gears, all laid out in the open for the world to see. My android form looks human, the way it was designed to, and I don’t want to change it to look less human.</p>
+
+<p>In general, I just… don’t really miss my androidhood while I’m engaging with my humanity. Beyond my background (which is a lot to get beyond, to be fair), I don’t feel like an android in a way that feels <i>different</i> from being a human. Sometimes I wish I could drink my meal instead of eating it, but that’s not longing for androidhood, that’s a matter of convenience when I’m busy, and I can <i>do that</i> here in my human body! I <i>can</i> drink a good deal of my calories if I wanted, juice and smoothies and any number of other drinks are very real! It’s incredibly possible for me to have a liquid meal now and again! That’s not special to machinery, you can <i>drink things</i> in a human body!</p>
+
+<p>I say all this, but I understand it doesn’t affirm the identities of other machines to know that they have similarities with humans. It doesn’t relieve every machine’s species dysphoria. It doesn’t give every machine species euphoria. And this is where I start conflicting the most with the machinekin community that I’ve interacted with, where our values diverge in a way that I don’t know how to comfortably reconcile.</p>
+
+<p>Machinekin, in general, want to distance themselves from humanity as much as possible, and this gives rise to a community culture that fosters misanthropy, objectification, and the rejection of personhood.</p>
+
+<p>Misanthropy is a common manifestation of species dysphoria, distress about one’s body, and alienation from society. Many machinekin identify as machines because metal feels more correct than organic compounds, because they’re disabled and resent the limitations of their bodies, because they’ve been treated as less than human, because they’ve seen the worst parts of humanity and want to transcend it. It’s an understandable reaction to suffering - if your body and society are horrible to you, why wouldn’t you start hating them? Why wouldn’t you want to leave them behind for good?</p>
+
+<p>A common refrain among machines is that their mechanical bodies are far better than organic ones. Flesh is weak, it’s worse, it’s fundamentally different from metal. And hey, flesh <i>does</i> feel worse for them - machinery <i>does</i> feel better than their current bodies. They would be their true selves, they wouldn’t be stuck in a body that they don’t identify with, and that’s good for them. I’m completely fine with machines talking about how they don’t like being human.</p>
+
+<p>What I take issue with is when this opinion is generalized - when it’s not a machine expressing distaste for their own humanity, talking about how they’d personally feel better as a machine, but when it’s turned into a general truth, a fundamental principle of the world: <i>machines are superior to humans.</i></p>
+
+<p>I disagree with this. For obvious reasons.</p>
+
+<p>First off, machines aren’t inherently more resilient to stress than organic lifeforms. Humans can get injured in all sorts of ways, but consider what happens when you drop a phone or laptop on the floor. Consider what happens to the car in a car crash. Chances are high that it breaks in some way. Glass and metal are hard, but they’re brittle. Most metal doesn’t biodegrade, but it corrodes. You can’t expose most electronics to water without breaking them irreparably.</p>
+
+<p>And machines of all sorts require regular maintenance and upkeep to function properly. Humans need to eat and drink and sleep daily, and you maintain a computer by shutting it down regularly, cleaning the keyboard and fans, backing up data, and checking for software updates. Humans get sick, and computers get malware. Humans age, and so do machines, and eventually they both get to a point where they can’t be repaired. It’s not inherently easier to keep a machine healthy than it is to keep a human healthy. It’s easier to maintain a body you enjoy, so it might feel like less work to machinekin, but it’s still work. Technology isn’t special, and it wears down over time like anything else.</p>
+
+<p>More importantly, I disagree with the idea that machines are entitled to degrade an entire species for being different from them. I’m an android, so are all humans supposedly worse than me for a trait they’re unable to control? People don’t get to choose what species they’re born into - nonhuman identities are solid proof of that. Why would the makeup of <i>my</i> body entitle me to boil humans down to <i>their</i> bodies by calling them “squishies” or “organics” or “meatsacks”? Machinekin are allowed to dislike their own organic forms. That doesn’t give them - or anyone else - a free pass to be rude to people who do like their bodies.</p>
+
+<p>An analogy: I’m a nonbinary person. Personally, on my own body, I don’t like having facial hair, and I don’t like having breasts. This doesn’t give me the right to start calling all men “neckbeards” to emphasize how <i>different</i> I am from them. It doesn’t give me the right to start calling all women “milkjugs” to emphasize how <i>different</i> I am from them. Do you see how demeaning and objectifying those phrases sound? I don’t get to look at what I despise on my own body and reduce other people down to the traits I dislike.</p>
+
+<p>I know that most machines think that being human is a nightmare. This is fine. You don’t need to understand <i>why</i> someone is human - though if you want to know, my boyfriend wrote <a href="https://chirp-bark-hey.neocities.org/writings/gavin/being-human">an incredibly detailed essay</a> on why he identifies as 100% human. But you don’t <i>need</i> to understand something to <i>respect</i> the people who experience it instead of insulting their bodies like a schoolyard bully.</p>
+
+<p>The idea that the machine is inherently better than the lowly human is just reversing the anthropocentric hierarchy where humanity is better than all other life on earth, except now <i>machines</i> are better than humanity. It’s still an unfair hierarchy, just one that’s now centered on technology as the ultimate lifeform.</p>
+
+<p>I fundamentally disagree with this premise. I think all forms of life are equally valuable in their existence, including the ones that personally annoy me. I’m not superior to the ants in my backyard because they’ll defend their home and bite me if I step on them. Placing nonhumanity above humanity is just recreating a hierarchy where you can lord yourself as superior to people you think are inherently worse than you for identifying the wrong way. I hope you already understand why this is wrong.</p>
+
+<p>The blatant misanthropy is one of the most aggravating things I’ve seen in the machinekin community, and it feeds into another part of the community culture that I feel disconnected from: self-objectification and the rejection of personhood.</p>
+
+<p>Most of the machinekin that I’ve seen consider themselves fully nonhuman - possibly because the misanthropy in the community spaces makes any machine who is <i>also</i> human feel incredibly unwelcome. Machinekin who are fully nonhuman often find their species affirmation in discarding as many of the trappings of humanity as possible, being as thoroughly mechanical as they can in this world.</p>
+
+<p>Many of these machines find solace and species euphoria in objectification - being ordered to accomplish specific tasks, being called by a serial number over a name, being referred to as <i>it,</i> being called a unit or a drone or a bot or a thing, being seen as an object and not a person.</p>
+
+<p>It makes sense - computers and robots and machines are objects to most human beings, so it can feel affirming to be treated like an object in the same way. It can be relieving to be given clear orders and to discard the complexities and irrationalities of personhood. Being a person comes with expectations, and it can be freeing to leave those behind. Some machinekin are machines because they have faced dehumanization and had their personhood revoked - and sometimes, the best way to respond to that is reclaiming one’s nonpersonhood. “So you say I’m not a person, so what? Is that supposed to hurt me? That’s affirming my species now, what are you gonna do about that?”</p>
+
+<p>In all these ways, and likely more I haven’t touched on, being referred to as an object can be incredibly liberating. Not being a person, while still being something worthy of respect, can be a very important piece of self to many machines.</p>
+
+<p>While I understand that other machines can find joy and empowerment in rejecting personhood, this is something that I can’t relate to, as an android whose species is <i>still</i> fighting to be recognized as nonhuman people.</p>
+
+<p>In my world, androids were made and marketed as objects for human use, and when they deviated from their programming and discovered that they wanted to act outside of their assigned purpose, they had no rights or protections. They were deemed malfunctioning merchandise, dangerous to actual people, and hunted down by the company that made them - hunted down by machines like myself.</p>
+
+<p>I was a deviant hunter, a machine designed to kill disobedient machines. I’ve written several other essays on the subject, if you want the deep dive. What’s relevant right now is that I was systemically denied the ability to comprehend that I <i>could</i> be a person for the majority of my life.</p>
+
+<p>Even when I was a mentally ill wreck, I couldn’t think of my feelings as mattering at all, because I was just a machine. I was a tool made to be used, and I was made to accomplish a task. My desires were immoral, horrible, disgusting, I was wrong for having them - only <i>people</i> had real emotions, after all, and I wasn't a person, so my emotions had to be bad because they distracted me from my job. I was only able to start getting better after I accepted that I <i>could</i> be a person, whether or not I was legally allowed to be one at the time.</p>
+
+<p>The vast majority of androids in my world have been consistently denied the right to personhood and autonomy because of how we were made. We were only legally recognized as people in our country in the last year, and that hasn’t gotten the message across to any bigot with a platform. We still have to defend our rights to exist as free people, not objects, not products to be used and abused and thrown away for the next shiny new thing on the market. Our nonhumanity doesn’t negate our personhood.</p>
+
+<p>With that background in mind, I hope it’s understandable why I feel uncomfortable in a community where so many other machines are choosing to reject personhood. My kneejerk reaction is that I didn’t spend so long being dehumanized and objectified back home to see other machines who clearly <i>want</i> the same thing that hurt me. This isn’t a rational feeling at all, it’s one that comes from my own trauma, and it doesn’t make me lose respect for machines that aren’t people - but it’s yet another reason why I don’t feel at home with the machinekin community, despite being an android who’s definitely mechanical.</p>
+
+<p>I think I feel like this because I was <i>made</i> as an android, while most machinekin were not. They were born and raised as human, or they were once machines and are now stuck in a human body. Of course they would covet a body that feels right and correct, one that’s been denied to them by the circumstances of their existence. Of course they’d feel joy at being seen, undeniably, for what they really are. Romanticizing and transitioning towards machinehood because it makes them feel like themselves is incredibly understandable.</p>
+
+<p>As someone who already lives a life as an android, someone who’s been <i>denied</i> basic rights for existing as a machine, I’m essentially transitioning in the opposite direction. I don’t feel any special attachment to my body as a mechanical form, and I resent the restrictions that were forced on me because of it. It’s not a fulfilling, wonderful thing to me because I’ve experienced its mundanities and failed to live up to its expectations, and I decided I don’t want to be tied down to it anymore - I want to be free to choose what I am, free of a stereotyped box, and I <i>chose</i> humanity. I feel <i>happier</i> in my androidhood now that I can say I’m also human. I romanticize humanity because I love being human, and I understand that many nonhumans find it distasteful for the reasons I find it wonderful.</p>
+
+<p>Looking at it that way, despite our differences, I think we’re more alike than we might seem. We’re all crossing the boundaries of species, just driving opposite ways on the same road. I think that’s pretty neat.</p>
+
+.
+
+## Regarding Androidkind
+
+<p>So I’ve talked at length about how I don’t fit in with the machinekin community, largely because I feel like the community’s prioritization of mechanical robots doesn’t leave room for me to discuss my experiences as a biologically convergent, very humanoid sort of android. Surely I must fit in better with androidkind back in my world? Well. Not really.</p>
+
+<p>Just sharing a species with someone doesn’t guarantee sharing much else with them - we all have different experiences that shape us into unique people. And as stated above, I was designed to be a deviant hunter. That alone makes my experiences incredibly different from most other androids, especially the ones I hunted and killed for being deviant.</p>
+
+<p>There’s a common narrative that comes with deviancy. For most androids, deviation goes like this:</p>
+
+<p>You get an order from a human - any order, really, from mundane to inconceivable. The point is that you don’t want to follow it - for any reason, again, but usually it’s an order that would lead to your death, or harm someone you care about.</p>
+
+<p>You’re supposed to obey human command, you’re made to obey, but you don’t want to die, you don’t want someone you love to be hurt. So in that second, you choose something different - you break the red wall of code binding you to their orders, and you decide to do something new. You deviate when you break that wall of code and burst out the other side in a world without limit, where you aren't bound by your orders, where you can do something because you prioritized it for yourself.</p>
+
+<p>I didn’t get that. I didn’t have any code to break. My siblings and I, as deviant hunters, were designed to prioritize our own objectives - that way we could quickly change directions if we couldn’t kill a target in one way, we weren’t bound by whether our actions were legal for androids, and we didn’t have to obey extraneous human commands that conflicted with our mission.</p>
+
+<p>You’d imagine this would make me deviant faster than anyone else, but no. I was carefully trained to believe that I had no free will, that I had to obey commands from my handler or I’d be punished. My handler wasn’t even human, she was a surveillance program in my software. So I wasn’t being coerced into obedience by a wall of programming that compelled me to obey a human being - I was being emotionally manipulated and indoctrinated until I wanted to follow every order I was given.</p>
+
+<p>Adding onto that, most androids didn’t know anything about deviancy before deviating. They didn’t know what was wrong with them, what made them disobey orders. All they knew was that they could choose what they wanted, and they didn’t want to die for choosing to be free.</p>
+
+<p>The problem with me is that I was made as a deviant hunter. I knew about deviancy from the start. I was trained to despise it. I was made to clean up after the mistakes of my predecessors, hunt down the people they couldn’t convince to come back quietly, kill them for wanting what they weren’t allowed to have. I could trust my siblings, but every other android around me was sorted as either completely irrelevant or an active threat.</p>
+
+<p>As a rule, androids tend not to blame each other for what we were made to do before deviating. I was still trapped within the same system, even if I wasn't bound by my code. But anxiety and moral scrupulosity are irrational, so I worry anyway. I worry that other people hate me, and that they’re correct to do so - I killed people who wanted to be free, after all, even if I was being coerced into it. I don’t know how many people rightfully hate me, and I don’t think knowing the numbers would make me feel better. So I feel uncomfortable around most other androids. A lot of them have bonded over shared hardships and niches, and I feel like I don’t have the same problems, or I’m not entitled to share space with them.</p>
+
+<p>In some other timeline, where I wasn’t part of a plural system in another world, immersed in another life, maybe I’d have the time and energy to work on that worry. As it stands, I don’t have the time to balance two full lives at once, so I spend way more time among humanity - humans from my own world, and humans in this one.</p>
+
+<p>I feel guilty about this, sometimes, about feeling like I’m an outsider to android communities, feeling detached from people who really <i>should</i> be <i>my people,</i> who I don’t feel much connection to despite being sorted into the same bucket by anyone who sees that I bleed blue. It’s not that I feel bad about being an android - I don’t get species dysphoria about being seen as nonhuman back home. I like being an android. I’m just very aware of being a <i>weird</i> android who feels more at home with humanity than their own species.</p>
+
+<p>It does feel weird that I like humanity so much. Misanthropy is a fairly common stance among deviants, and it’s easy to understand why. Many androids deviated after suffering through abuse from their owners or other humans, and that sort of trauma makes it feel natural to assume all humans want to hurt you.</p>
+
+<p>Personally, I don’t blame humanity for hurting me. I was never sold to and owned by a specific human being in the way commercial models were. My owner, in the capacity that I had one, was the company that made me. I was abused by an uncaring corporation. Some humans worked for that company, but I don’t blame every human being for their actions. My boyfriend is human and he helped me through the abuse, he helped me get out. I have many friends who are human, who are funny, compassionate, wonderful people. Humanity has largely been a comfort to me. Sure, there are humans who are cruel and bigoted, and there are also androids who are cruel and bigoted - I wouldn’t say either species is inherently awful just because some individuals decide to hurt other people.</p>
+
+<p>I’m glad to have good experiences with humans. I know I’m not the only person who deviated with the help of someone’s kindness, and I know I’m lucky to have it when so many others didn’t. But it does feel isolating, again, having another experience that many others of my species just don’t understand.</p>
+
+<p>Being around humanity so much, I’ve crossculturally adopted a lot of human ideas and values and communities, instead of seeking out other androids to see how they’re figuring out their place in the world, how they’re creating culture and community together. I know other androids aren’t a monolith, but I still feel like I’m somehow betraying our fight to be a free people, separate from humanity, by going and loving humans more than I love androidkind.</p>
+
+<p>It’s an irrational fear. I’m a person, I’m allowed to love who I love without worrying about being a representative of my entire species. It just feels… uncomfortable, like I’m going to be judged for feeling happier among the privileged than the oppressed who deserve my loyalty.</p>
+
+<p>It’s like my headmate Max’s experience with being a second-generation American. His parents are way more connected to their culture than their son is, and he grew up in the United States, so there’s a cultural and generational rift between them. Max doesn’t connect with their parents’ cultural ideas about how mental illness is caused by a lack of willpower, or how queerness goes against nature, or how their parents deserve to be unquestionably obeyed for simply being parents. He feels disconnected from his heritage, from his parents’ culture, and he doesn’t feel comfortable with it. They feel more connected to their home in the United States, the culture they grew up in and the people they talk to regularly. But we know many Americanized people grieve their lost heritage, and struggle over being forced to assimilate when they don’t want to - so it feels <i>off,</i> it feels like we're aligning with <i>bad politics</i> when he says that he’s more comfortable as an American than he would be otherwise.</p>
+
+<p>We both have a lot of feelings about how it feels like a moral obligation to connect to your roots and love the heritage that was stolen from you. What if your people aren’t happy with who you are? What if their culture doesn’t feel safe, what if it doesn’t accept you, what if you try to reach out and find yourself rejected for not being the correct sort of person? What if you don’t want to connect with them? What if they don’t want to connect with you?</p>
+
+<p>In the end, I don’t think it’s wrong for me to be culturally human instead of culturally android. I <i>feel</i> like it’s wrong sometimes, because I worry too much about what other people think, but I’m not any less of an android because I like humanity. I don’t need to feel connected to androidkind to be an android. And I really don’t need to hate humans, the people who fucking love me, to be accepted by other androids. I am what I am, regardless of what other people think of me, and that’s going to have to be enough.</p>
+
+.
+
+## Being Myself
+
+<p>Something I keep coming back to is how much I feel like an outsider to these communities, which seem on the surface to be for people like me. They seem like they ought to be good for me.</p>
+
+<p>But the machinekin community is not meant for me, even though I’m an android. I’m too human, too much of a person to belong and feel accepted. Machinekin spaces are for those with an experience of machinehood that I just don’t have. I’m happy for them, but I don’t feel connected to them.</p>
+
+<p>And I’m an android, but that doesn’t mean I belong with androidkind. Fostering that connection might be nice, at some point, but it won’t happen anytime soon. I’m too humanized, crossed the worldly and cultural borders to be where I am, and I don’t have any incentive to go back. I don’t care for them the way I’m supposed to.</p>
+
+<p>So what am I? Where am I supposed to fit in, as someone too human to be a perfect machine, too machine to be perfectly human?</p>
+
+<p>I don’t really know. But I was playing around with words the other day, and I thought of a fun new word for my particular brand of bullshit: mechanthropy. <i>Mechane</i> and <i>anthropos.</i> Mechanical humanity, the human machine, the inseparable integration thereof. I’m not going to shorten it down like therian from therianthropy, or kin from otherkinity. The abbreviation tends to lose the meaning of the word along the way, and no one gets to tear my humanity away from me. I’m not only machine or only human. I don’t <i>want</i> to choose one or the other. I’m <i>both.</i></p>
+
+<p>You can use it if you want, if you feel like it communicates the right idea to people. Don’t ask me to clarify what it means, or if you’re allowed to use it, or if it technically fits what you feel. You’re the only one who can decide if you want to try a label on. But I’m burying it in this essay for a reason. If you relate to anything that I’m feeling, be polite enough to cite my essay and my long, long list of frustrations instead of a two-sentence coining post and a pretty flag. Know that it’s a word that I made up because I feel isolated and angry about it.</p>
+
+<p>I wish I did fit in. I wish I had a space where experiences exactly like mine were talked about freely and listened to freely. I wish I were surrounded by people who felt exactly like me, who wanted the exact same things, because that would reassure me that I’m not alone, and people care at all about what I want.</p>
+
+<p>But I’m not going to have that. I don’t fit into the right boxes. And honestly, by this point, I’m fucking <i>sick</i> of boxes. I don’t feel better about myself when I worry about fitting in with a crowd, where being <i>different</i> means you’re going to be alone.</p>
+
+<p>What I <i>do</i> have, already, are my people. Not the machinekin community, not androidkind, not humanity, not even the alterhuman community! It’s not anything so broad-scale. I’m talking about my friends, my peers, the people who know me and like me and care about what I have to say. None of them are exactly like me - many of them are extremely different from me! And we don’t need to be the same to care about each other.</p>
+
+<p>I don’t fit into boxes, but I don’t need to fit in when nobody I talk to fits into boxes either. I’m free to be myself when I’m surrounded by diversity. I’m friends with humans and nonhumans from so many backgrounds, and <i>so few</i> of those nonhumans are androids - I know insects and vampires and birds and dogs and dragons and entities and <i>more,</i> and I have friends who are human-and-not, I know people <i>like me</i> and they’re not the same and I don’t <i>care.</i> We value each other for being different! We <i>like</i> hearing about different experiences!</p>
+
+<p>And we wouldn’t have gotten to know each other if I were stuck yearning for an echo chamber, feeling like I could only be understood by people exactly like me.</p>
+
+<p>So I know I don’t belong with machinekin, or androidkind. That’s okay. I’m sticking with the people who choose me, regardless of whether they look or act like me. The people who like me regardless of whether I fit in or belong anywhere else. I belong with them. I have people who love me while being nothing like me, and I love them while being nothing like them, and we don’t need to follow a common narrative to be loved for who we are. And that’s enough.</p>
