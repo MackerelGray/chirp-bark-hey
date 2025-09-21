@@ -7,7 +7,7 @@
 <a href="https://ibb.co/hx7pyNLX"><img src="https://i.ibb.co/mrDQGKbv/human.png" alt="human" border="0"></a>
 
 <h3>Transcript:</h3>
-<cut>
+
 <p>I’m human</p>
 
 <p style="margin-left: 40px">I’m <i>human</i></p>
@@ -53,4 +53,3 @@ or a <s>toy</s></p>
 				
 <p>(I’m tired)<br>
 (just call me a person)</p>
-</cut>
