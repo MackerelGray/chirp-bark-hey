@@ -4,7 +4,7 @@
 
 Musings on our names and our relationships with them, particularly around transitioning, OC fictive experiences, established character fictive experiences, and our reluctance to create a system name (despite doing so in the end, in an unconventional way).
 
-### Max
+## Max
 
 So I'm transgender, and I decided to change my name, as is a common choice among trans folks! I went through several different names before settling on the ones I have for myself now - Kitson, Gray, Finch, for a few examples. I was nonbinary in my teenage years, genderfluid before my gender settled into masculinity as its new home, and I wanted a name that was kinda difficult to nail down as masculine or feminine. I played around with it for a long time, I got silly with it!
 
@@ -16,7 +16,7 @@ I was jokingly lamenting that I&rsquo;d chosen a really boring name to represent
 
 And Benry said, <i>hey, if it were actually a top ten dog name you&rsquo;d be a Fido or a Biscuit,</i> and I said, <i>hey, I like biscuits! I&rsquo;d be a great Biscuit!</i> And in ten minutes I&rsquo;m being dubbed Max Biscuit in the general chat and giving people virtual baked goods, and honestly, it was so fun and sweet that I&rsquo;m immortalizing it by putting it on my handle now. Hi fellow alterhumans, I&rsquo;m Max Biscuit, I was Assigned Baked Goods at the Centaurus Festival and it was absolutely delightful.
 
-### Jude
+## Jude
 
 First off, my name is technically short for Judah, and I don&rsquo;t actually use that name here, for a couple reasons.
 
@@ -34,7 +34,7 @@ And before I walked in, Max wrote a bunch of different alternate universes with 
 
 It&rsquo;s funny to think about my name in terms of the meta of being a fictive of an original character, because on one hand, Max went through various iterations of a character that would eventually become what I&rsquo;d recognize as me, including name changes, and that&rsquo;s really interesting! And on the other hand, I definitely remember talking about what to officially last-name ourselves with my brothers when we finally got the time, because I felt kinda weird about identifying myself by a model number, or worse, a serial number that people never remembered. Watsonian versus Doylist commentary on what went into making me a person, I guess! They&rsquo;re both real enough, one of them just happened in my life and the other happened in Max&rsquo;s brain.
 
-### Gavin
+## Gavin
 
 My name is Gavin Zachary Reed, and I still think it&rsquo;s really funny that I can just <i>announce</i> that without getting doxxed. Like I don&rsquo;t think anyone should follow my example, but it&rsquo;s fucking comedy gold that I can do it. I&rsquo;m not even revealing my identity to anyone who&rsquo;s familiar with the video game my source was based on, because my source is so canon divergent that the character who shares my name is fully unrecognizable to me.
 
