@@ -6,6 +6,8 @@ Preface: I read [a post](https://www.tumblr.com/words-of-wolf/743989390802632704
 
 Meanwhile, I experienced hunting as *unmitigated violence,* and I thought, huh, I could write about that! I got kinda carried away, forgot exactly what I was saying, and it’s really fucked up, but hopefully it’s interesting.
 
+.
+
 **CONTENT WARNING:** extensive discussion about the mindsets behind *violent bigotry, murder,* and the systemic denial of personhood through *dehumanization and ownership,* from the perspective of someone who used to be violently bigoted - through the lens of futuristic androids and my memories as one, but it still *really* deserves a warning. Also, descriptions of *emotional abuse in a cult,* from someone who was abused. If you’re not up to reading any of that, understandable! Please skip this essay!
 
 .
