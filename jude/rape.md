@@ -1,44 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chirp! Bark! Hey!</title>
-    <!-- The style.css file allows you to change the look of your web pages.
-         If you include the next line in all your web pages, they will all share the same look.
-         This makes it easier to make new pages for your site. -->
-    <link href="../../style.css" rel="stylesheet" type="text/css" media="all">
-</head>
-
-
-
-  <body>
-
-
-  <div class=main>
-    <div class=main-inner>
-      <h1>Chirp! Bark! Hey!</h1>
-      <p>Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.</p>
-    </div>
-    <div class=links>
-      <div class=link-first><a href="">refresh</a></div>
-      <div class=link><a href="/index.html">home</a></div>
-      <div class=link><a href="/about/index.html">about</a></div>
-      <div class=link-last><a href="/writings/index.html">writings</a></div>
-
-    </div>
-    
-  </div>
-  
-  <div class=main><div class=main-inner>
-    
-<h2>When You Can’t Consent To Anything, All Sex Is Rape</h2>
+# When You Can’t Consent To Anything, All Sex Is Rape
 
 <p><i>Written by Jude Rook-Machina on August 10th, 2024.</i></p>
 
 <p><b>CONTENT WARNING:</b> This is an essay about rape. Specifically in the context of being the perpetrator and the victim, simultaneously, because I’m a fictional android, and being an android meant I had incredibly fucked up ideas about consent – namely, it’s a concept that didn’t apply to any android at all, myself included! This is your warning. Read on if you’ve decided you can handle this.</p>
 
-<p>-</p>
+--
 
 <p>So if you’re condemning people for the crimes they did in fiction, I’m a rapist! Because I raped people.</p>
 
@@ -87,14 +53,3 @@
 <p>See I know all of this, I <em>know this,</em> and I still keep freezing up and refusing to talk about it and feeling scared and guilty and ashamed for daring to even bring up the word <em>sex.</em> I’m not supposed to talk about what I like, what if I hurt people and they’re disgusted by me and they hate me and leave me and tell everyone I’m a sex abuser having immoral fantasies because that’s the easiest way to get everyone to harass you forever and I die alone and everyone’s glad I died?</p>
 
 <p>I mean, that probably won’t happen. That’s catastrophizing. I’m not friends with people who make a habit of righteously ruining the lives of queer people with targeted sexual harassment for the crimes of daring to talk about a weird kink on the internet. I should trust my friends and talk about weird problematic horny fantasies that don’t hurt people by existing. I’d like to. It’s just scary and hard.</p>
-
-
-</div></div>
-  
-    <div class=footer><div class=footer-inner>
-    <p>This base style was made by EGGRAMEN in 2020.</p>
-    </div></div>
-
-  </body>
-  
-  
