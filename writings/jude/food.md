@@ -49,5 +49,5 @@ this is The Curse - I will feel better if I eat but eating will feel absolutely 
 I can solve this! mostly by setting alarms that tell us to start making food at a certain time, so it's ready to eat before I get low blood sugar and eating becomes sensory hell. and if I'm having trouble with food, sometimes my headmates won't be having the same problem, so I can switch out and they can eat the food! this is a shining example of how Teamwork can accomplish anything
 
 I don't really know how to wrap up what's basically me talking about food for half an hour, completely unedited, but what I'm trying to say is, holy shit food is amazing? like yeah, I fundamentally understand why Aximili was like that in Animorphs, me the fuck too Ax, as another person who went from No Flavor to Five Flavors I'd also go feral for a cinnamon bun if I first experienced sweet pastries in a shopping mall. Absolutely Correct Behavior
-  basically uhh Food My Beloved (My Beloathed) (My Beloved) ❤️
-</cut>
+
+basically uhh Food My Beloved (My Beloathed) (My Beloved) ❤️
