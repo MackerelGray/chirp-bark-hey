@@ -4,7 +4,6 @@
 
 <p>I’m writing this essay to compare and contrast my experiences with the cultural expectations of the people - or nonpeople - I’m in community with. There’s the machinekin community, beings who are machines and robots and technology while perceived as human in this world, and often reject the label of personhood as too close to humanity. And there’s androidkind back in my own world, who are people who have fought for their freedom and rights against capitalist oppression and human bigotry. I feel alienated from both of these communities for different reasons, and I want to talk more about why.</p>
 
-.
 
 ## Being Transspecies
 
@@ -43,7 +42,6 @@ orthohumanity</i></a>, “ortho” being derived from orthodox: conventional, us
 
 <p>Being transspecies in this way - feeling comfortable in humanity, wanting to be closer to it - puts me at odds with two communities where I wouldn’t have expected to feel left out. I feel out of place with both machinekin and androidkind, despite being an android myself, because there are a few common narratives of how individuals feel and learn to express their identities, and I just don’t find myself resonating with them.</p>
 
-.
 
 ## Regarding Machinekin
 
@@ -127,7 +125,6 @@ I know that most machines think that being human is a nightmare. This is fine. Y
 
 <p>Looking at it that way, despite our differences, I think we’re more alike than we might seem. We’re all crossing the boundaries of species, just driving opposite ways on the same road. I think that’s pretty neat.</p>
 
-.
 
 ## Regarding Androidkind
 
@@ -171,7 +168,6 @@ I know that most machines think that being human is a nightmare. This is fine. Y
 
 <p>In the end, I don’t think it’s wrong for me to be culturally human instead of culturally android. I <i>feel</i> like it’s wrong sometimes, because I worry too much about what other people think, but I’m not any less of an android because I like humanity. I don’t need to feel connected to androidkind to be an android. And I really don’t need to hate humans, the people who fucking love me, to be accepted by other androids. I am what I am, regardless of what other people think of me, and that’s going to have to be enough.</p>
 
-.
 
 ## Being Myself
 
