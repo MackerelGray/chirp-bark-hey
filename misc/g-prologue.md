@@ -37,14 +37,3 @@
 <p>&ldquo;I caught it.&rdquo;</p>  <p>Gavin looks at Judah.</p>  <p>They grin at him, LED bright blue, blood splattered on their cheek, sharp and excited like a dog that just caught a rabbit. Gavin feels <i>sick.</i></p>  
 
 <p><i>What the fuck did CyberLife send us?</i></p>
-
-  </div></div>
-
-  
-    <div class=footer><div class=footer-inner>
-    <p>This base style was made by EGGRAMEN in 2020.</p>
-    </div></div>
-
-  
-  </body>
-  
