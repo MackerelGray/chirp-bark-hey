@@ -10,7 +10,7 @@ Hey, my name's Gavin, he/him, and I'm writing out my fucking identity crisis on 
 
 .
 
-So. This past week, [we realized something](https://github.com/MackerelGray/chirp-bark-hey/blob/main/max/daemons-to-systems.md), that Jude and I - *especially* me - have been basically fitting in the same roles Max’s daemons used to. Because brains are weird, and they love patterns, and we've been unconsciously keeping this pattern going for a solid year or so.
+So. This past week, [we realized something](https://github.com/MackerelGray/chirp-bark-hey/blob/main/writings/max/daemons-to-systems.md), that Jude and I - *especially* me - have been basically fitting in the same roles Max’s daemons used to. Because brains are weird, and they love patterns, and we've been unconsciously keeping this pattern going for a solid year or so.
 
 And at the end of that last essay he posted about it, Max said that we *aren’t* the same thing. His daemons were parts of himself and extensions of what he needed back then. *We,* as their headmates, are separate people. And that’s that, right? Pack it in, solid conclusion, all neat and tidy. I sure fucking wish it were, but *no,* I’m having a bad time and I'm going to talk about it. My old therapist told me that writing out my thoughts is good for me, and I’m choosing to believe her.
 
