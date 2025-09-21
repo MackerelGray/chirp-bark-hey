@@ -44,4 +44,4 @@
 
 <p>I'm an android, the extremely specialized murderbot prototype Gavin mentioned up there! I'm also human by choice, human by association, human by transition - I'm transspecies, in the nonhuman to human direction, because humanity fits me more than being a fucked up android ever did.</p>
 
-I wrote [an extremely long essay](jude/transspecies-human.md) about it, where I say... pretty much everything I could say in this response. Basically, yeah, my humanity is fundamentally alterhuman. It's really not a normal human thing for your baseline species to be nonhuman, and it's definitely not a normal alterhuman thing to like becoming human, but here I am, being weird in both directions!
+I wrote [an extremely long essay](https://github.com/MackerelGray/chirp-bark-hey/blob/main/jude/transspecies-human.md) about it, where I say... pretty much everything I could say in this response. Basically, yeah, my humanity is fundamentally alterhuman. It's really not a normal human thing for your baseline species to be nonhuman, and it's definitely not a normal alterhuman thing to like becoming human, but here I am, being weird in both directions!
