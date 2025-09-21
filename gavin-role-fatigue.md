@@ -1,5 +1,7 @@
 # Role Fatigue And Being A Shell Of A Person
+
 **I Want Off This Self-Inflicted Archetype Ride, Thanks**
+
 *Written by Gavin Reed-Machina on March 8th, 2024.*
 
 Hey, my name's Gavin, he/him, and I'm writing out my fucking identity crisis on main, because what else do we have a journal for?
