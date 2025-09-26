@@ -1,4 +1,8 @@
-# Prey Drive, As An Android Deviant Hunter
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## Prey Drive, As An Android Deviant Hunter
 
 <p><i>Written by Jude Rook-Machina on January 2nd, 2025.</i></p>
 
