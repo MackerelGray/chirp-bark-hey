@@ -1,4 +1,8 @@
-# When You Can’t Consent To Anything, All Sex Is Rape
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## When You Can’t Consent To Anything, All Sex Is Rape
 
 <p><i>Written by Jude Rook-Machina on August 10th, 2024.</i></p>
 
