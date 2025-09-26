@@ -1,4 +1,8 @@
-# On Sapience, Longing, and the Lack Thereof
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## On Sapience, Longing, and the Lack Thereof
 
 *Written by Max Biscuit-Machina on August 12th, 2024.*
 
