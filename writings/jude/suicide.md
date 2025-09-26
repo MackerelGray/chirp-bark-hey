@@ -1,4 +1,8 @@
-# Memory Uploads And Suicidal Thoughts
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## Memory Uploads And Suicidal Thoughts
 
 *Written by Jude Rook-Machina on March 5th, 2024.*
 
