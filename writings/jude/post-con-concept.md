@@ -1,4 +1,8 @@
-# post-panel conceptuality answers!
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## post-panel conceptuality answers!
 
 <p><i>Written by Jude Rook-Machina on August 14th, 2025. Originally posted to <a href="https://conceptuality.dreamwidth.org/1206.html">the Conceptfolk Dreamwidth discussion group.</a></i></p>
 
