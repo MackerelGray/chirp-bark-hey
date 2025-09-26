@@ -1,4 +1,8 @@
-# Species-Related Gender as Social Constructs
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## Species-Related Gender as Social Constructs
 
 <p><i>Written by Max Biscuit-Machina on November 4th, 2024.</i></p>
 
