@@ -1,4 +1,8 @@
-# Being Human: A Species Identity Compare and Contrast
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## Being Human: A Species Identity Compare and Contrast
 
 *Written by Gavin Reed-Machina on June 27, 2024.*
 
