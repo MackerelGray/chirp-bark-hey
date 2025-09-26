@@ -1,4 +1,8 @@
-# Hey, Angel, Did It Hurt When You Fell From Heaven?
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## Hey, Angel, Did It Hurt When You Fell From Heaven?
 
 *Written by Jude Rook-Machina on July 10th, 2024.*
 
