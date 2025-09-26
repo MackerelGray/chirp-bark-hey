@@ -1,4 +1,8 @@
-# Gateway Operations: How My System Works
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## Gateway Operations: How My System Works
 
 *Written by Max Biscuit-Machina on March 30, 2024.*
 
