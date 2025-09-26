@@ -1,4 +1,8 @@
-# listen to me ramble about Food for thirty minutes (as an android who Can't Eat)
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## listen to me ramble about Food for thirty minutes (as an android who Can't Eat)
 
 *Written by Jude Rook-Machina on July 19th, 2024.*
 
