@@ -1,4 +1,8 @@
-# #2 [Canon] What The Fuck Is Detroit Machina Anyway
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## #2 [Canon] What The Fuck Is Detroit Machina Anyway
 
 <p><i>Written by Max Biscuit-Machina on May 20th, 2022.</i></p>
 
