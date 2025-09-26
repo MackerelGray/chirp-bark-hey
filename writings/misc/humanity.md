@@ -1,4 +1,8 @@
-# "Is Your Humanity Alterhuman?"
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## "Is Your Humanity Alterhuman?"
 
 <p><i>Written by Machina on May 13th, 2025.</i></p>
 
