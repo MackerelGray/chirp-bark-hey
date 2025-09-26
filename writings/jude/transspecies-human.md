@@ -1,11 +1,15 @@
-# Fuck Detroit, I’m Becoming Human: On Being a Transspecies Human Android
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## Fuck Detroit, I’m Becoming Human: On Being a Transspecies Human Android
 
 <p><i>Written by Jude Rook-Machina, February 8th through March 1st, 2025.</i></p>
 
 <p>I’m writing this essay to compare and contrast my experiences with the cultural expectations of the people - or nonpeople - I’m in community with. There’s the machinekin community, beings who are machines and robots and technology while perceived as human in this world, and often reject the label of personhood as too close to humanity. And there’s androidkind back in my own world, who are people who have fought for their freedom and rights against capitalist oppression and human bigotry. I feel alienated from both of these communities for different reasons, and I want to talk more about why.</p>
 
 
-## Being Transspecies
+### Being Transspecies
 
 I wrote one of my first personal essays, “[Android Abnormalities](https://github.com/MackerelGray/chirp-bark-hey/blob/main/writings/jude/android-abnormalities.md),” back in March 2024. In that essay, I talked about how I feel alienated by common narratives around android sapience and emotionality. I kept seeing stories and stereotypes about how robots are always more logical and rational than human beings, and that sure didn’t connect with my experience.
 
@@ -43,7 +47,7 @@ orthohumanity</i></a>, “ortho” being derived from orthodox: conventional, us
 <p>Being transspecies in this way - feeling comfortable in humanity, wanting to be closer to it - puts me at odds with two communities where I wouldn’t have expected to feel left out. I feel out of place with both machinekin and androidkind, despite being an android myself, because there are a few common narratives of how individuals feel and learn to express their identities, and I just don’t find myself resonating with them.</p>
 
 
-## Regarding Machinekin
+### Regarding Machinekin
 
 <p>There are some cultural expectations that come with being a machine living in a human body, or at least some common narratives that come up when talking about it.</p>
 
@@ -126,7 +130,7 @@ I know that most machines think that being human is a nightmare. This is fine. Y
 <p>Looking at it that way, despite our differences, I think we’re more alike than we might seem. We’re all crossing the boundaries of species, just driving opposite ways on the same road. I think that’s pretty neat.</p>
 
 
-## Regarding Androidkind
+### Regarding Androidkind
 
 <p>So I’ve talked at length about how I don’t fit in with the machinekin community, largely because I feel like the community’s prioritization of mechanical robots doesn’t leave room for me to discuss my experiences as a biologically convergent, very humanoid sort of android. Surely I must fit in better with androidkind back in my world? Well. Not really.</p>
 
@@ -169,7 +173,7 @@ I know that most machines think that being human is a nightmare. This is fine. Y
 <p>In the end, I don’t think it’s wrong for me to be culturally human instead of culturally android. I <i>feel</i> like it’s wrong sometimes, because I worry too much about what other people think, but I’m not any less of an android because I like humanity. I don’t need to feel connected to androidkind to be an android. And I really don’t need to hate humans, the people who fucking love me, to be accepted by other androids. I am what I am, regardless of what other people think of me, and that’s going to have to be enough.</p>
 
 
-## Being Myself
+### Being Myself
 
 <p>Something I keep coming back to is how much I feel like an outsider to these communities, which seem on the surface to be for people like me. They seem like they ought to be good for me.</p>
 
