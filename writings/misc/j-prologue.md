@@ -1,4 +1,8 @@
-# J. prologue
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## J. prologue
 
 <p><i>Written by Machina on October 15th, 2023.</i></p>
 
