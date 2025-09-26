@@ -1,4 +1,8 @@
-# Android Abnormalities
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## Android Abnormalities
 
 **Species dysphoria, but the "wrong" way, ft. my borderline personality disorder**
 
