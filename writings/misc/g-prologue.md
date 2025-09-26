@@ -1,4 +1,8 @@
-# G. murder (...2!)
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## G. murder (...2!)
 
 <p><i>Written by Max on August 16, 2020.</i></p>
 
