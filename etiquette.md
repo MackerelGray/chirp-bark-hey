@@ -1,4 +1,8 @@
-# Plural Etiquette Questionnaire
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## Plural Etiquette Questionnaire
 
 *Frequently asked questions about how to talk to us!*
 
