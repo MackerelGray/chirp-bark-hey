@@ -1,4 +1,8 @@
-# Daemons To Systems, And The Ways They Intertwine
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## Daemons To Systems, And The Ways They Intertwine
 
 *Written by Max Biscuit-Machina on March 6th, 2024.*
 
