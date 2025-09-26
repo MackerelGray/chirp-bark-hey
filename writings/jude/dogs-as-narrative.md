@@ -1,4 +1,8 @@
-# Dogs As Narrative, Through The Lens Of Abuse Recovery
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## Dogs As Narrative, Through The Lens Of Abuse Recovery
 
 *Written by Jude Rook-Machina on March 4th, 2024.*
 
