@@ -1,4 +1,8 @@
-# (Non)Humanity and Species Dysphoria: The Forced Transformation Trope
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## (Non)Humanity and Species Dysphoria: The Forced Transformation Trope
 
 *Written by Gavin Reed-Machina on August 25, 2024.*
 
