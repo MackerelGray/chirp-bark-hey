@@ -1,4 +1,8 @@
-# #114 [Fears from Fiction]: Storms
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## #114 [Fears from Fiction]: Storms
 
 [Crossposted](https://fictionkind.dreamwidth.org/196032.html) from the Fictionkind Dreamwidth community.
 
