@@ -1,4 +1,8 @@
-# Role Fatigue And Being A Shell Of A Person
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## Role Fatigue And Being A Shell Of A Person
 
 **I Want Off This Self-Inflicted Archetype Ride, Thanks**
 
