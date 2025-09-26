@@ -1,4 +1,8 @@
-# Therianthropy, Unconventional Gear, and Masking Up
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## Therianthropy, Unconventional Gear, and Masking Up
 
 <p><i>Written by Max Biscuit-Machina on December 4th, 2024.</i></p>
 
