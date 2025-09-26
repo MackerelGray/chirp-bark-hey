@@ -1,4 +1,8 @@
-# sex trauma braindump
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## sex trauma braindump
 
 <p><i>Written by Jude Rook-Machina on August 16th, 2025.</i></p>
 
