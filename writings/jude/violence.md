@@ -1,4 +1,8 @@
-# Is It Violence If You Aren't Alive, Really?
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## Is It Violence If You Aren't Alive, Really?
 
 *Written by Jude Rook-Machina on March 4th, 2024.*
 
