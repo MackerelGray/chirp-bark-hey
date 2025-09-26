@@ -8,8 +8,6 @@ Funny plural system made of a murder chicken, a murder dog, and just some guy ta
 
 <p>M: So the journal post we wrote recently about names had a lot to do with transitioning, and huh, yeah, all three of us are transgender - but definitely in different ways, and that’s interesting! I don’t see too many systems posting about the intricacies of their relationships to their bodies, their specific ones or the one they’re in at the moment, and I want to talk about that!</p>
 
-<p>.</p>
-
 <p><b>Content Warning:</b> This post contains discussion of gender dysphoria, gender-affirming surgeries, and genitalia, using both medical and casual terms, as well as discussions of sex and dysphoria surrounding it.</p>
 
 <p>.</p>
@@ -50,6 +48,6 @@ Funny plural system made of a murder chicken, a murder dog, and just some guy ta
 
 <p>Update as of May 11th, 2024: So my bottom dysphoria somehow <em>vanished.</em> Into thin air! Which is also cool for me! I've been thinking about it, and I think it's because I've fully internalized the separation between what society <em>says</em> about gender (only men can have dicks) and what I know about gender (anyone can have a dick), so the dysphoria of perceiving myself as masculine for having a dick is just... not there anymore? I'm incredibly psyched about this honestly, I love having less horrible dysphoria! It's still not usually a part of my body map, but it's nice to have another option open up, you know?</p>
 
-<p>-</p>
+<p>...</p>
 
-<p>…You know, looking back up this post, it's <em>incredibly</em> funny that we're on a linear sliding scale of Liking Cock. <em>Amazing.</em> How are we all in one body? Transgender diversity wins again ❤️</p>
+<p>You know, looking back up this post, it's <em>incredibly</em> funny that we're on a linear sliding scale of Liking Cock. <em>Amazing.</em> How are we all in one body? Transgender diversity wins again ❤️</p>
