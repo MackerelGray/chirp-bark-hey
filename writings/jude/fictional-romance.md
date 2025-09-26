@@ -1,4 +1,8 @@
-# Fictional Romance: Being Made for Each Other
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## Fictional Romance: Being Made for Each Other
 
 *Written by Jude Rook-Machina on July 16th, 2025.*
 
