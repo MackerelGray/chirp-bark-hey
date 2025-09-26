@@ -1,4 +1,8 @@
-# Weird Wereraptor Insights
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## Weird Wereraptor Insights
 
 <p><i>Written by Max Biscuit-Machina on August 19th, 2025.</i></p>
 
