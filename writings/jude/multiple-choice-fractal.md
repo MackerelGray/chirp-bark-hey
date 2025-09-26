@@ -8,7 +8,7 @@ Funny plural system made of a murder chicken, a murder dog, and just some guy ta
 
 <p>Hey there! I want to talk about an interesting part of being an original character, one who’s been tossed around in various situations for five years: I have over 50 different backstories and alternate timelines, as memories and innate knowledge and personal creative output, and all of them feel like me, even though I usually only talk about what happened to me in one specific canon and timeline.</p>
 
-## The Alternate Universes
+### The Alternate Universes
 
 <p>So I’m alterhuman, right? I have a lot of identity terms kicking around to describe myself already. I’m a fictive, I’m transspecies, I’m conceptfolk. I’m a human, I’m an android, I resonate with dog symbolism and I relate to a lot of narrative beats around fallen angels.</p>
 
@@ -40,7 +40,7 @@ Funny plural system made of a murder chicken, a murder dog, and just some guy ta
 
 <p>Well, I’m not a sphinx here, not by a long shot, but I know a lot about myself. I know my character design, my motifs, my color palettes and narrative arcs and things I struggle with. I can use that to sketch out how I’d look and act as a sphinx. Self-insertion is about learning my patterns, abstracting my introspection, and putting it on a page to process in a fun new context. This is all fiction, yeah, but it’s being made to talk about something real.</p>
 
-## The Alternate Timelines
+### The Alternate Timelines
 
 <p>Continuing on the topic of things that did (not) happen, my life has a lot of branching timelines. It’s one of the fun things about being written from a choice-based game – if your choices can influence the ending in the game, well, there’s a lot more choices you can write if you’re brainstorming by your whims and not limited by script length or actors’ schedules or appealing gameplay.</p>
 
@@ -62,7 +62,7 @@ Funny plural system made of a murder chicken, a murder dog, and just some guy ta
 
 <p>(It’s like how Velociraptor changed over the years – it’s still the same dinosaur, but we’re interpreting it differently based on what we know. We thought it was scaly back when we first discovered it, and now we reconstruct it with feathers. It’s not that raptors were less raptor in the 90s, just that we had less information than we do now.)</p>
 
-## Tying It All Together
+### Tying It All Together
 
 <p>All this ties back into what I wrote up in the title: my lore <em>is</em> a multiple-choice fractal situation! Everything I could’ve been and everything I could’ve done is all tangled up in there. Not everything <em>yet,</em> because there’s always more forms and settings and branches to think of. I’ve been liking ferrets recently! We could write a Burrow’s End type of thing, I’d have fun with those themes – and that’s pretty much how we make new AUs. “That sounds fun! I wanna write about that!”</p>
 
