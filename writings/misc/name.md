@@ -1,4 +1,8 @@
-# What's In A Name?
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## What's In A Name?
 
 *Written by Machina on March 10th, 2024.*
 
