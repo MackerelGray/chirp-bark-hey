@@ -1,4 +1,8 @@
-# I'm human I'm human I'm HUMAN I'M HUMAN
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## I'm human I'm human I'm HUMAN I'M HUMAN
 
 <p><i>Written by Jude Rook-Machina on August 8th, 2024.</i></p>
 
