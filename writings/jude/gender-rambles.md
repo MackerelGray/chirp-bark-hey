@@ -1,5 +1,7 @@
 # Chirp! Bark! Hey!
 
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
 ## Jude Rambles About Their Gender
 
 <p><i>Written by Jude Rook-Machina on September 26, 2025.</i></p>
