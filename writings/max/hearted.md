@@ -1,4 +1,8 @@
-# Being 'Kin Without A 'Heart
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## Being 'Kin Without A 'Heart
 
 *Written by Max Biscuit-Machina on October 28th, 2024.*
 
