@@ -1,6 +1,10 @@
-# The Residents!
+# Chirp! Bark! Hey!
 
-## Max Biscuit-Machina | Prehistoric Chicken
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## The Residents!
+
+### Max Biscuit-Machina | Prehistoric Chicken
 
 Heya! I'm Max (he/they), gateway-keeper for the system and the original body-keeper! I'm a *Velociraptor* person, specifically a wereanimal who lives in ridiculous harmony with my raptorself, Biscuit (it/its), which is like a moderately annoying tamed house bird.
 
@@ -10,7 +14,7 @@ The system stuff started August 16, 2022, when they walked in, were great fun bu
 
 In things that aren't related to alterhumanity, I like creative writing and drawing, literary/character analysis, and learning about the human body! (Biology is cool, y'all!)
 
-## Jude Rook-Machina | Human Android ft. Dog Vibes
+### Jude Rook-Machina | Human Android ft. Dog Vibes
 
 Hi, I'm Jude (they/them), local android, former murderbot! I'm an original character from a heavily canon-divergent version of *Detroit: Become Human* called *Detroit, Machina,* where the RK line are deviant hunters, the deviant hunting is company-sanctioned murder, and I'm one of those deviant hunters, sent out with a knife and a handler and the promise that failure means you're unworthy of the love of everything you hold dear. So I have a knife, and trauma, which I'm going to talk about actually because it's really bad to keep it all pent up and I wanna do something about it.
 
@@ -18,7 +22,7 @@ On a less fucked up note, I'm human because I said so, a black pointy-eared dog 
 
 Things I like include (but aren't limited to): talking, walking, the cutting board part of cooking, weighted blankets, chew toys, writing, and being annoying (affectionate)
 
-## Gavin Reed-Machina | Just A Normal Human Guy
+### Gavin Reed-Machina | Just A Normal Human Guy
 
 Hey, I'm Gavin (he/him), and I'm the only completely human guy here, so you get to hear about my unique Everyman experiences! I also dropped in from the same universe as Jude - which means yes, my name is Gavin Reed, no, I'm not that asshole from the video game I've never played. I'll probably spend time here talking about my life and feelings and all that jazz, because I've been to therapy before and my therapist told me journaling is fantastic, and unfortunately she's right.
 
@@ -30,20 +34,20 @@ Jude's my partner - sometimes I'll call them my boyfriend or vice versa - and th
 
 Last and most importantly, I have three cats. Their names are Jack, Lucy, and Buttercup. Sometimes they're called Jackass, Lucifer, and Buttercup. (Buttercup, for one, has never done anything wrong in his dumb little life.) I'd pay cat tax and show them to y'all, but they aren't corporeal in this world, so you're just gonna have to trust me when I say they're adorable menaces to society and I could not be prouder.
 
-# The Guests!
+## The Guests!
 
-## Elijah Kamski
+### Elijah Kamski
 
 Gavin's older brother, the creator of androids and former CEO of Cyberlife. You might look at that and think he's an asshole. Well, no, he's genuinely a really nice person, he just visits sometimes to annoy Gavin. He has a ton of houseplants (a good many rescued from Gavin's housecats, nowadays) and lives with his queerplatonic partner, Chloe, somewhere out of Detroit.
 
-## Connor Rook
+### Connor Rook
 
 Jude's twin brother. Mostly visiting to annoy Gavin, and sometimes Jude as well. He doesn't technically own a dog, but his old middle-aged roommate/friend does, and they live together, so Sumo is also his dog now. Co-parenting.
 
-## Tina Chen
+### Tina Chen
 
 One of Gavin's best friends, mostly visiting to annoy Gavin. (You see a theme here?) She has a pet ball python, named Anime because "she has the biggest shiny puppy anime eyes, it only made sense."
 
-## Travis Rook
+### Travis Rook
 
 Jude's older brother. He's an RK700, not the same kind of murderbot as Jude and Connor, but he's been cajoled into siblinghood anyway. He's kind of a coolly enigmatic jackass to Max and Gavin, but Jude calls him their favorite brother with incredible amounts of bias, so he comes by sometimes :P
