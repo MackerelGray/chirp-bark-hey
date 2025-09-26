@@ -1,4 +1,8 @@
-# Fictoform is a Good Word
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## Fictoform is a Good Word
 
 *Written by Machina on July 17th, 2025.*
 
