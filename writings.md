@@ -1,14 +1,18 @@
-# Writings
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## Writings
 
 This is the page where we keep our personal essays and other posts about our experiences, as organized by author.
 
-## Gavin
+### Gavin
 
 - [Role Fatigue And Being A Shell Of A Person](writings/gavin/role-fatigue) (2024/03/08)
 - [Being Human: A Species Identity Compare and Contrast](writings/gavin/being-human) (2024/06/27)
 - [(Non)Humanity and Species Dysphoria: The Forced Transformation Trope](writings/gavin/species-dysphoria) (2024/08/25)
 
-## Jude
+### Jude
 
 - [Is It Violence If You Aren't Alive, Really?](writings/jude/violence) (2024/03/04)
 - [Dogs As Narrative, Through The Lens Of Abuse Recovery](writings/jude/dogs-as-narrative) (2024/03/04)
@@ -24,7 +28,7 @@ This is the page where we keep our personal essays and other posts about our exp
 - [post-panel conceptuality answers!](writings/jude/post-con-concept) (2025/08/14)
 - [That Feel When Your Lore Is a Multiple-Choice Fractal Situation](writings/jude/multiple-choice-fractal) (2025/08/29)
 
-## Max
+### Max
 
 - [Daemons To Systems, And The Ways They Intertwine](writings/max/daemons-to-systems) (2024/03/06)
 - [Gateway Operations: How My System Works](writings/max/gateway-operations) (2024/03/30)
@@ -34,7 +38,7 @@ This is the page where we keep our personal essays and other posts about our exp
 - [Therianthropy, Unconventional Gear, and Masking Up](writings/max/unconventional-gear) (2024/12/04)
 - [Weird Wereraptor Insights](writings/max/wereraptor) (2025/08/19)
 
-## Miscellaneous
+### Miscellaneous
 
 Written by several of us or about several of us (e.g. fictomere information, creative nonfiction, memories, general talk).
 
