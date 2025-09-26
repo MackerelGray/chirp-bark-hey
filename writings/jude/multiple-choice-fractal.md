@@ -1,4 +1,8 @@
-# That Feel When Your Lore Is a Multiple-Choice Fractal Situation
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## That Feel When Your Lore Is a Multiple-Choice Fractal Situation
 
 <p><i>Written by Jude Rook-Machina on August 29th, 2025.</i></p>
 
