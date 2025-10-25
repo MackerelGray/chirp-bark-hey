@@ -27,6 +27,8 @@ This is the page where we keep our personal essays and other posts about our exp
 - [I'm human I'm human I'm HUMAN I'M HUMAN](writings/jude/im-human) (2025/08/08)
 - [post-panel conceptuality answers!](writings/jude/post-con-concept) (2025/08/14)
 - [That Feel When Your Lore Is a Multiple-Choice Fractal Situation](writings/jude/multiple-choice-fractal) (2025/08/29)
+- [I guess we're doing dragons now](writings/jude/i-guess) (2025/10/12)
+- [dragonlinking go brrrrr](writings/jude/dragonlinking) (2025/10/16)
 
 ### Max
 
