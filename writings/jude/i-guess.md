@@ -1,4 +1,8 @@
-<h2>I guess we're doing dragons now</h2>
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
+## I guess we're doing dragons now
 
 <p><i>Written by Jude Rook-Machina on October 12, 2025.</i></p>
 
