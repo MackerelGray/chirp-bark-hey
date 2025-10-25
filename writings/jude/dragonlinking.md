@@ -1,3 +1,7 @@
+# Chirp! Bark! Hey!
+
+Funny plural system made of a murder chicken, a murder dog, and just some guy talk about their life.
+
 ## dragonlinking go brrrrr
 
 <p><i>Written by Jude Rook-Machina on October 16th, 2025.</i></p>
