@@ -29,6 +29,7 @@ This is the page where we keep our personal essays and other posts about our exp
 - [That Feel When Your Lore Is a Multiple-Choice Fractal Situation](writings/jude/multiple-choice-fractal) (2025/08/29)
 - [I guess we're doing dragons now](writings/jude/i-guess) (2025/10/12)
 - [dragonlinking go brrrrr](writings/jude/dragonlinking) (2025/10/16)
+- [The Sparkledragoning Continues](writings/jude/sparkledragoning)
 
 ### Max
 
