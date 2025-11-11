@@ -30,6 +30,7 @@ This is the page where we keep our personal essays and other posts about our exp
 - [I guess we're doing dragons now](writings/jude/i-guess) (2025/10/12)
 - [dragonlinking go brrrrr](writings/jude/dragonlinking) (2025/10/16)
 - [The Sparkledragoning Continues](writings/jude/sparkledragoning) (2025/10/24)
+- [The Amnesia Thing, In Creative Nonfiction](writings/jude/amnesia-creative) (2025/11/10)
 
 ### Max
 
